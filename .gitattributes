@@ -1,0 +1,6 @@
+# 统一按 LF 存储，避免 Windows 检出后在 macOS/Linux 上运行脚本出问题
+* text=auto
+*.py text eol=lf
+*.swift text eol=lf
+*.cs text eol=lf
+*.md text eol=lf
